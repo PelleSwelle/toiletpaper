@@ -1,7 +1,7 @@
 {
-  "name": "template-ts-vite",
-  "version": "1.1.0",
-  "description": "Excalibur TypeScript template for Vite",
+  "name": "toilet-paper",
+  "version": "0.01",
+  "description": "unroll the roll of toilet paper to reveil the truth",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
@@ -18,10 +18,11 @@
     "excalibur",
     "excaliburjs",
     "vite",
-    "game-engine"
+    "game-engine",
+    "toilet-paper",
+    "truth"
   ],
-  "author": "Erik Onarheim",
-  "license": "BSD-2-Clause",
+  "author": "Peter Dønvang",
   "bugs": {
     "url": "https://github.com/excaliburjs/template-ts-vite/issues"
   },

@@ -1,5 +1,14 @@
+:root {
+  --background-color: white;
+  --dark-background: black;
+}
+
+body {
+  background-color: var(--background-color);
+}
+
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: black;
+    background-color: var(--dark-background);
   }
 }
