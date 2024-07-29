@@ -4,7 +4,7 @@ import toiletpaper from './images/toiletpaper.png';
 
 export const Resources = {
   Sword: new ImageSource(sword),
-  Roll: new ImageSource(toiletpaper)
+  Roll: new ImageSource(toiletpaper),
 } as const;
 
 export const loader = new Loader();

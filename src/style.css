@@ -5,6 +5,17 @@
 
 body {
   background-color: var(--background-color);
+  color: white;
+
+}
+
+#sheets-counter {
+  margin-left: 20px;
+  position: absolute;
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  border-radius: 12px;
 }
 
 @media (prefers-color-scheme: dark) {
